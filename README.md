@@ -8,4 +8,4 @@
   - [DFS Parlay EV Calculator](http://www.sports-dex.com/)
   - [Borderless.us Landing Page](https://borderless.us/)
 - 📫 How to reach me: On [LinkedIn](https://www.linkedin.com/in/jason-phillips47/) or by email jasonpve@gmail.com
-- 🍗 Fun fact: I have a severe Raising Cane's addiction
+- 🍗 Fun fact: I have an acute Raising Cane's addiction
